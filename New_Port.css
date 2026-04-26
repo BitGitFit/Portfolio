@@ -1,0 +1,55 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+}
+
+/* Header */
+header {
+    background-color: #222;
+    color: white;
+    text-align: center;
+    padding: 30px 20px; /* increased */
+}
+
+/* Navigation */
+nav {
+    background-color: #444;
+    text-align: center;
+    padding: 15px; /* increased */
+}
+
+nav a {
+    color: white;
+    margin: 0 20px; /* more space between links */
+    text-decoration: none;
+    font-weight: bold;
+}
+
+/* Sections */
+section {
+    padding: 60px 40px;  /* BIG improvement */
+    margin-bottom: 20px; /* space between sections */
+}
+
+/* Projects */
+.project {
+    background: white;
+    margin: 25px 0; /* more vertical spacing */
+    padding: 20px; /* more inner spacing */
+    border-radius: 8px;
+}
+
+/* Headings spacing */
+h2 {
+    margin-bottom: 20px;
+}
+
+/* Footer */
+footer {
+    background-color: #222;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin-top: 30px;
+}
